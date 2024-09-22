@@ -2,7 +2,7 @@
 ### Welcome to my GitHub Page
 
 <div align="center">
-  <img src="[[https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif](https://github.com/user-attachments/assets/281b9552-dcea-4f8e-bd0a-ed028bda0636)]" alt="Gif from Giphy" />
+  <img src="https://github.com/user-attachments/assets/281b9552-dcea-4f8e-bd0a-ed028bda0636"/>
 </div>
 
 <!--
