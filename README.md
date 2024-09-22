@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Welcome to my GitHub Page
 
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/d6b08a33-d531-4a8e-aae5-9f6f21cd040b)
+
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Gif from Giphy" />
 </div>
