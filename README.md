@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### Welcome to my GitHub Page
-![giphy](https://github.com/user-attachments/assets/281b9552-dcea-4f8e-bd0a-ed028bda0636)
 
-
+<div align="center">
+  <img src="[https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif](https://github.com/user-attachments/assets/281b9552-dcea-4f8e-bd0a-ed028bda0636)" alt="Gif from Giphy" />
+</div>
 
 <!--
 **jjz5463/jjz5463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
