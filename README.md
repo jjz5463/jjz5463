@@ -1,5 +1,5 @@
-### Hi there 👋
-### Welcome to my GitHub Page
+### Hi There 👋
+### Welcome to my GitHub Page!
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/281b9552-dcea-4f8e-bd0a-ed028bda0636"/>
